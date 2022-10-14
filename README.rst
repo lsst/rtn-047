@@ -21,6 +21,10 @@ Links
 Build
 =====
 
+Build with docker::
+
+    docker run --rm -v `pwd`:/build -w /build lsstsqre/lsst-texmf:latest sh -c "make"
+
 This repository includes lsst-texmf_ as a Git submodule.
 Clone this repository::
 
