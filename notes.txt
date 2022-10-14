@@ -1,0 +1,9 @@
+# This file is a scratch space for all ideas for things that should be covered in the management plan
+
+
+- distinction between work/scope of VV team and ROO's nightly operations. Propose that ROO is intra-night VV/QA and RPF-VVT is inter-night VV/QA. ROO focuses on things questions about the quality of the data as it comes off the camera to answer the question, is this data good, do we keep observing or do we need to stop to fix something. RPF VV/QA provides input for the next night of observing. 
+RPF-VV is not awake during the night. Their work starts in the morning following a nights's observing 
+
+- draw a lifecycle of the data diagram, building off the construction system vision 
+
+- 
