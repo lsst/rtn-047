@@ -1,0 +1,52 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% Document:      System Performance organisation chart and reporting lines
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass{article}
+\usepackage[default]{lato}
+\usepackage{tikz,hyperref,amsmath}
+\usetikzlibrary{positioning,arrows,shapes,decorations.shapes,shapes.arrows}
+\usetikzlibrary{backgrounds,calc}
+
+\usepackage[paperwidth=23cm,paperheight=20cm,left=1mm,top=3mm,bottom=3mm,right=1mm,
+noheadfoot,marginparwidth=0pt,includemp=false ]{geometry}
+
+
+\newcommand\showpage{%
+\setlayoutscale{0.5}\setlabelfont{\tiny}\printheadingsfalse\printparametersfalse
+\currentpage\pagedesign}
+
+\hypersetup{pdftitle={SP organisation }, pdfsubject={Diagram illustrating the
+ reporting lines in the Rubin System Performance Group}, pdfauthor={ Leanne Guy}}
+
+\pagenumbering{gobble}
+\input{styles}
+
+\begin{document}
+\begin{tikzpicture}[node distance=0mm]
+
+    \node (spad) [divbox, text width=41mm] {\textbf{Associate Director System Performance} \\ Leanne Guy };
+    \node (spdd) [divbox, right=0.4cm of spad, minimum height=12mm, text width=41mm] {\textbf{ Deputy \\System Performance}\\ Colin Slater };
+
+    \node(ctr)[below=3cm of spad]{\textbf{ } \\} ;
+    \node(sst)[arcbox,right=2mm of ctr]{\textbf{Survey Scheduling} \\ Lynne Jones };
+    \node(set)[arcbox,right=2mm of sst]{\textbf {Systems Engineering} \\ Austin Roberts};
+    \node(cet)[arcbox,left=2mm of ctr]{\textbf{ Community Engagement } \\ Melissa Graham} ;
+    \node(vvt)[arcbox,left=2mm of cet]{\textbf{Verification and Validation } \\Colin Slater} ;
+    
+    % V&V team 
+   % \node(cvvt)[below=10mm of vvt]{\textbf{dummy} \\} ;
+    %\draw[line] (cvvt.north)-- ++(0,0.5)  -| (vvt.south);
+
+    
+    % Lines 
+    \draw[sline] (spad.east) to (spdd.west);
+    \draw[line] (cet.north)-- ++(0,0.5)  -| (spad.south);
+    \draw[line] (vvt.north) -- ++(0,0.5) -| (spad.south);
+    \draw[line] (sst.north) -- ++(0,0.5) -| (spad.south);
+    \draw[line] (set.north)-- ++(0,0.5) -| (spad.south);
+
+\end{tikzpicture}
+\end{document}
