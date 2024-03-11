@@ -30,23 +30,27 @@ noheadfoot,marginparwidth=0pt,includemp=false ]{geometry}
     \node (spad) [divbox, text width=41mm] {\textbf{AD System Performance} \\ Leanne Guy };
     \node (dpad) [divbox, right=1.3cm of spad, minimum height=12mm, text width=39mm] {\textbf{ AD Data Production  }\\ William O'Mullane};
     \node (ooad) [divbox, left=1.3cm of spad, minimum height=12mm, text width=47mm] {\textbf{ AD Observatory Operations  }\\ Chuck Claver};
-    \node (epad) [divbox, right=1.3cm of dpad, minimum height=12mm, text width=60mm] {\textbf{ AD Education \& Public Outreach  }\\ open };
-%   \node (sdpad) [divbox, left=3cm of spad] {\textbf{ DP Deputy } \\ Not Assigned};
+    \node (epad) [divbox, right=1.3cm of dpad, minimum height=12mm, text width=60mm] {\textbf{ AD Education \& Public Outreach  }\\ Alan Strauss};
     \node (dir) [divbox, above=1.5cm of spad, text width=5cm] {\textbf{ Rubin Operations Director} \\Robert Blum };
-%    \node (dspad) [psbox, right=0.4cm of dpad, minimum height=12mm, text width=41mm] {\textbf{ SP Deputy }\\ Yusra AlSayyad };
-    \node (ps) [psbox, right=1.5cm of dir, minimum height=12mm] {\textbf{  Project Scientist}\\ \u{Z}eljko Ivezi\'c};
+    \node (ps) [psbox, right=1.5cm of dir, minimum height=12mm] {\textbf{  Head of Science}\\ \u{Z}eljko Ivezi\'c};
 %
+    \node(dpt)[below=1.3cm of spad]{\textbf{ } \\} ;
+        \node (dspad) [divbox, right=1cm of dpt, minimum height=12mm, text width=48mm] {\textbf{ System Performance Deputy }\\ Colin Slater };
+        \draw[line] (spad.south)-- ++(-0,-1.4)  -| (dspad.west);
+
+         
     \node(ctr)[below=4cm of spad]{\textbf{ } \\} ;
 	\node(sst)[arcbox,right=2mm of ctr]{\textbf{Survey Scheduling} \\ Lynne Jones };
 	\node(set)[arcbox,right=2mm of sst]{\textbf {Systems Engineering} \\ Austin Roberts};
 	\node(cet)[arcbox,left=2mm of ctr]{\textbf{ Community Engagement } \\ Melissa Graham} ;
-	\node(vvt)[arcbox,left=2mm of cet]{\textbf{Verification and Validation } \\Colin Slater (Deputy)} ;
+	\node(vvt)[arcbox,left=2mm of cet]{\textbf{Verification and Validation } \\Colin Slater} ;
 %Lines ..
 
-    \draw[sline] (dpad.west) to (spad.east);
+
     \draw[sline] (ps.west) to (dir.east);
     \draw[sline] (epad.west) to (dpad.east);
     \draw[sline] (spad.west) to (ooad.east);
+   \draw[sline] (spad.east) to (dpad.west);
     \draw[line] (spad.north) -- ++(0,0.8) -| (dir.south);
 
     \draw[line] (cet.north)-- ++(0,0.5)  -| (spad.south);
