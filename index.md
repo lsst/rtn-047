@@ -1,4 +1,4 @@
-# The Case for a Fully Public Rubin EDF-S Dataset
+# Maximizing Rubin's Scientific Return by Making EDF-S Fully Public
 
 
 ## Recommendation
