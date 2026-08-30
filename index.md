@@ -10,11 +10,11 @@ Designate Rubin Observatory data in the Euclid Deep Field South (EDF-S) as fully
 
 **AI-ready dataset:** Provides the Rubin data needed for an open, AI-ready dataset at a small, representative scale for exploratory science and validation, and, together with  Euclid and Roman EDF-S data, to produce a same-sky, multi-survey training and benchmark resource;
 
-**New legacy field:** Establishes EDF-S as an enduring, fully open community resource on the model of COSMOS, with fresh discovery potential;
+**New legacy field:** Launches EDF-S as the next COSMOS, an open legacy field with decades of fresh discovery potential ahead of it;
 
 **Public engagement:** Gives Rubin a field where it can openly showcase its own scientific power and capabilities without special clearance.
 
-## Discussion
+## Rationale
 
 The Euclid Consortium and Rubin Observatory are jointly observing the 23 deg<sup>2</sup> Euclid Deep Field South (EDF-S) to a combined depth and cadence beyond either survey's individual wide-area program. 
 A 2022 white paper ({cite}`Guy2022`) defined an initial set of Rubin-Euclid Derived Data Products (DDPs) specifically to realize the far greater science return of the two surveys combined. 
@@ -28,10 +28,11 @@ There is also a strong benefit for AI research.
 A validated dataset spanning Rubin, Euclid, and Roman over the same footprint would provide a high-value training and benchmarking resource that does not currently exist. 
 A separate community proposal, "The Cross-Survey Decade: A Call to Action" ({cite}`Rau2026`), whose co-authors include several Rubin staff, identifies EDF-S as a candidate starting point for this kind of joint processing.
 
+This recommendation is scoped solely to EDF-S, leaving the remainder of Rubin's proprietary dataset and its data access rights fully intact.
 The risk to Rubin science is minimal: EDF-S covers only about 23 deg<sup>2</sup> of Rubin's approximately 18,000 deg<sup>2</sup> survey area and does not materially affect any proprietary program. 
-The potential upsides, by contrast, are considerable. 
-It provides Rubin a field where it can openly showcase its groundbreaking and unique science to the broadest possible audience, a strong win for public and community engagement.
-Beyond that, open, non-proprietary fields have historically become the community's most productive resources: the COSMOS field remains a cornerstone of astrophysics decades after its inception, precisely because it was kept open from the start. 
+
+The potential upsides, by contrast, are considerable.
+Open, non-proprietary fields have historically become the community's most productive resources: the COSMOS field remains a cornerstone of astrophysics decades after its inception, precisely because it was kept open from the start. 
 The same pattern holds for datasets that have driven progress in AI: the Multimodal Universe dataset, ImageNet, and AlphaFold's structural archive were all released openly from the start, and each catalyzed a research community that built on it for years afterward.
 A fully open Rubin EDF-S has the potential to do the same for astrophysics and AI.
 
