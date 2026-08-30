@@ -37,7 +37,7 @@ authors:
 copyright: "2026, Association of Universities for Research in Astronomy, Inc. (AURA)"
 
 # Description. A short, 1-2 sentence statemement used by document indices.
-description: "The document provides the case for a fully public Rubin EDF-S dataset."
+description: "This document recommends that Rubin data in the EDF-S field be fully public."
 
 
 # Abstract, if available
