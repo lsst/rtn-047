@@ -6,10 +6,13 @@ Designate Rubin Observatory data in the Euclid Deep Field South (EDF-S) as fully
 
 ## Key Benefits
 
-* Cross-survey science: makes public the Rubin data required to complete, alongside the already-public Euclid and future Roman EDF-S data, a real, validated dataset that serves as an accessible-scale proving ground for myriad exploratory science opportunities, ahead of committing the effort and resources required for full-scale processing across the full-sky datasets. This unlocks development of the pipelines, infrastructure, and analyses needed for joint survey processing;
-* AI-ready dataset: provides the Rubin data needed for an open, AI-ready dataset at a small, representative scale for exploratory science and validation, and, alongside the already-public Euclid and future Roman EDF-S data, to produce a same-sky, multi-survey training and benchmark resource;
-* New legacy field: establishes EDF-S as an enduring, fully open community resource on the model of COSMOS, with fresh discovery potential;
-* Public engagement: gives Rubin a field where it can openly showcase its own scientific power and capabilities without special clearance.
+**Cross-survey science:**  makes public the Rubin data required to complete, alongside the already-public Euclid and future Roman EDF-S data, a real, validated dataset that serves as an accessible-scale proving ground for myriad exploratory science opportunities, ahead of committing the effort and resources required for full-scale processing across the full-sky datasets. This unlocks development of the pipelines, infrastructure, and analyses needed for joint survey processing; 
+
+** AI-ready dataset:** provides the Rubin data needed for an open, AI-ready dataset at a small, representative scale for exploratory science and validation, and, alongside the already-public Euclid and future Roman EDF-S data, to produce a same-sky, multi-survey training and benchmark resource;
+
+** New legacy field:** establishes EDF-S as an enduring, fully open community resource on the model of COSMOS, with fresh discovery potential;
+
+** Public engagement:** gives Rubin a field where it can openly showcase its own scientific power and capabilities without special clearance.
 
 ## Discussion
 
