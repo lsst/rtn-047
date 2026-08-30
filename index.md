@@ -6,9 +6,9 @@ Designate Rubin Observatory data in the Euclid Deep Field South (EDF-S) as fully
 
 ## Key Benefits
 
-**Cross-survey science:**  Makes public the Rubin data required to complete, alongside the already-public Euclid and future Roman EDF-S data, a real, validated dataset that serves as an accessible-scale proving ground for myriad exploratory science opportunities, ahead of committing the effort and resources required for full-scale processing across the full-sky datasets. This unlocks development of the pipelines, infrastructure, and analyses needed for joint survey processing; 
+**Cross-survey science:**  Makes public the Rubin data required to complete, alongside the already-public Euclid and future Roman EDF-S data, a real dataset that serves as an accessible-scale proving ground for myriad exploratory science opportunities, ahead of committing the effort and resources required for full-scale processing across the full-sky datasets. This unlocks development of the pipelines, infrastructure, and analyses needed for joint survey processing; 
 
-**AI-ready dataset:** Provides the Rubin data needed for an open, AI-ready dataset at a small, representative scale for exploratory science and validation, and, together with  Euclid and Roman EDF-S data, to produce a same-sky, multi-survey training and benchmark resource;
+**AI-ready dataset:** Provides the Rubin data needed for an open, AI-ready dataset at a small, representative scale for exploratory science and validation, and, together with Euclid and Roman EDF-S data, to produce a same-sky, multi-survey training and benchmark resource, an invaluable resource for community proposals to major upcoming AI-focused funding calls, such as NSF's AI-Ready Datasets solicitation ([NSF 26-512](https://www.nsf.gov/funding/opportunities/ai-datasets-unlocking-dataset-value-ai-enabled-scientific-discovery/nsf26-512/solicitation));
 
 **New legacy field:** Launches EDF-S as the next COSMOS, an open legacy field with decades of fresh discovery potential ahead of it;
 
@@ -24,8 +24,7 @@ Yet different data access policies across these surveys are hampering efforts to
 What EDF-S provides, uniquely, is a small, non-proprietary testbed where the community can build and validate the joint services, pipelines, and analyses that cross-survey processing will require, before attempting it at full scale. 
 Potential science applications include weak-lensing cosmology, photometry and redshifts for crowded or faint galaxies, AGN and black-hole studies, and cross-matched transient classification.
 
-There is also a strong benefit for AI research. 
-A validated dataset spanning Rubin, Euclid, and Roman over the same footprint would provide a high-value training and benchmarking resource that does not currently exist. 
+There is also a strong benefit for AI research.
 A separate community proposal, "The Cross-Survey Decade: A Call to Action" ({cite}`Rau2026`), whose co-authors include several Rubin staff, identifies EDF-S as a candidate starting point for this kind of joint processing.
 
 This recommendation is scoped solely to EDF-S, leaving the remainder of Rubin's proprietary dataset and its data access rights fully intact.
