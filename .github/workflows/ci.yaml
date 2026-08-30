@@ -6,7 +6,7 @@ jobs:
   call-workflow:
     uses: lsst-sqre/rubin-sphinx-technote-workflows/.github/workflows/ci.yaml@v1
     with:
-      handle: rtn-118
+      handle: rtn-047
     secrets:
       ltd_username: ${{ secrets.LTD_USERNAME }}
       ltd_password: ${{ secrets.LTD_PASSWORD }}
