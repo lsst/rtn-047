@@ -6,9 +6,9 @@ Designate Rubin Observatory data in the Euclid Deep Field South (EDF-S) as fully
 
 ## Key Benefits
 
-**Cross-survey science:**  Makes public the Rubin data required to complete, alongside the already-public Euclid and future Roman EDF-S data, a real dataset that serves as an accessible-scale proving ground for myriad exploratory science opportunities, ahead of committing the effort and resources required for full-scale processing across the full-sky datasets. This unlocks development of the pipelines, infrastructure, and analyses needed for joint survey processing; 
+**Cross-survey science:** Makes public the Rubin data required to complete, alongside the already-public Euclid and future Roman EDF-S data, a real dataset that serves as an accessible-scale proving ground for myriad exploratory science opportunities, ahead of committing the effort and resources required for full-scale processing across the full-sky datasets. This unlocks development of the pipelines, infrastructure, and analyses needed for joint survey processing;
 
-**AI-ready dataset:** Provides the Rubin data needed for an open, AI-ready dataset at a small, representative scale for exploratory science and validation, and, together with Euclid and Roman EDF-S data, to produce a same-sky, multi-survey training and benchmark resource, an invaluable resource for community proposals to major upcoming AI-focused funding calls, such as NSF's AI-Ready Datasets solicitation ([NSF 26-512](https://www.nsf.gov/funding/opportunities/ai-datasets-unlocking-dataset-value-ai-enabled-scientific-discovery/nsf26-512/solicitation));
+**AI-ready dataset**: Provides the Rubin data needed to develop open, AI-ready datasets on a small scale for exploratory science and validation, both for single-survey and cross-survey science, an invaluable resource for community proposals to major upcoming funding calls, such as NSF's AI-Ready Datasets solicitation ([NSF 26-512](https://www.nsf.gov/funding/opportunities/ai-datasets-unlocking-dataset-value-ai-enabled-scientific-discovery/nsf26-512/solicitation)).
 
 **New legacy field:** Launches EDF-S as the next COSMOS, an open legacy field with decades of fresh discovery potential ahead of it;
 
