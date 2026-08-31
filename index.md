@@ -24,7 +24,7 @@ The potential upsides, by contrast, are considerable.
 ## Rationale
 
 The Euclid Consortium, Rubin Observatory, and NASA's Roman Space Telescope all plan to observe the 23 deg<sup>2</sup> Euclid Deep Field South (EDF-S) to a combined depth and cadence beyond any single survey's individual wide-area program.
-A 2022 white paper ({cite}`Guy2022`) defined an initial set of Rubin-Euclid Derived Data Products (DDPs) specifically to realize the far greater science return of the two surveys combined, with an obvious near-term extension to Roman. 
+A 2022 white paper ({cite}`2022zndo...5836022G`) defined an initial set of Rubin-Euclid Derived Data Products (DDPs) specifically to realize the far greater science return of the two surveys combined, with an obvious near-term extension to Roman. 
 
 Yet different data access policies across these surveys are hampering efforts to realize those DDPs, blocking the combined analysis the DDP program was designed to enable.
 Making Rubin's EDF-S data public would, together with the already-public Euclid and future Roman data covering the same footprint, provide a small, fully open cross-survey dataset where the community can build and validate the joint services, pipelines, and analyses that cross-survey processing will require, before attempting it at scale.
@@ -37,7 +37,7 @@ A fully public EDF-S would be precisely the kind of open, scientific dataset tha
 EDF-S, rather than COSMOS, is proposed for public release because neither Euclid nor Roman observe COSMOS as a deep field, whereas both observe EDF-S.
 Open, non-proprietary fields have historically become the community's most productive resources: the COSMOS field remains a cornerstone of astrophysics decades after its inception, precisely because it was kept open from the start.
 But with nearly twenty years of deep imaging from HST, Spitzer, Chandra, and VLA, its remaining discovery potential is limited, and neither Euclid nor Roman have chosen it as a deep field. 
-EDF-S is a new field observed by all three next-generation survey facilities, with decades of discovery potential ahead of it. 
+EDF-S is a new field observed by Rubin, Euclid and Roman and has decades of discovery potential ahead of it. 
 A fully open Rubin EDF-S has the potential to do for the next generation what COSMOS did for this one.                  
 
 
