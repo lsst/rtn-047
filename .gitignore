@@ -62,6 +62,8 @@ acs-*.bib
 # fixme
 *.lox
 
+.idea
+
 #(r)(e)ledmac/(r)(e)ledpar
 *.end
 *.?end
