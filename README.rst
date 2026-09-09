@@ -7,14 +7,14 @@
   .. image:: https://zenodo.org/badge/doi/10.5281/zenodo.#####.svg
      :target: http://dx.doi.org/10.5281/zenodo.#####
 
-#################################
-Rubin Science Performance Metrics
-#################################
+#################################################################
+Maximizing Rubin’s Scientific Return by Making EDF-S Fully Public
+#################################################################
 
 rtn-047
 =======
 
-The document provides the detailed mathematical definitions for all normative LSST science performance metrics 
+The document makes the case for designating Rubin Observatory data in the Euclid Deep Field South (EDF-S) as fully world-public on an ongoing basis, thereby establishing EDF-S as a standing legacy field in the model of COSMOS.
 
 **Links:**
 
