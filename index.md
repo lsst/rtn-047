@@ -28,7 +28,7 @@ A 2022 white paper ({cite}`2022zndo...5836022G`) defined an initial set of Rubin
 
 Yet different data access policies across these surveys are hampering efforts to realize those DDPs, blocking the combined analysis the DDP program was designed to enable.
 The white paper's recommendation REC-13-SO addresses this directly: it calls for openly sharing EDF-S pixel data to enable DDP development, on the basis that long-term DDP production benefits from an openly shared photometric dataset over a small sky area.
-Together with the already-public Euclid and future Roman data, this would provide a small, fully open cross-survey dataset for building and validating the pipelines and analyses cross-survey science will require, to prepare for processing at scale.
+Together with the already-public Euclid and future Roman data, this would provide a small, fully open cross-survey dataset for building and validating the pipelines and analyses that full-scale cross-survey science will require.
 Applications include weak-lensing cosmology, photometry and redshifts for crowded or faint galaxies, AGN and black-hole studies, and cross-matched transient classification.
 
 There is also a strong benefit for AI research.
