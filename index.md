@@ -36,7 +36,7 @@ Applications include weak-lensing cosmology, photometry and redshifts for crowde
 There is also a strong benefit for AI research.
 Open datasets have driven some of the most productive advances in AI: the Multimodal Universe dataset, ImageNet, and AlphaFold's structural archive were all released openly from the start, and each catalyzed a research community that built on it for years afterward.
 A fully public EDF-S would be precisely the kind of open, scientific dataset that programs such as NSF's AI-Ready Datasets solicitation ([NSF 26-512](https://www.nsf.gov/funding/opportunities/ai-datasets-unlocking-dataset-value-ai-enabled-scientific-discovery/nsf26-512/solicitation)) are designed to advance: rich enough for AI-driven discovery, and open enough for the community to build the enhancement pipelines and cross-survey harmonization tools that such discovery requires.
- 
+
 A public EDF-S also benefits the community directly: Science Collaborations would no longer need to require data rights as a condition of membership, broadening participation and, in turn, the range of science they can pursue.
 
 EDF-S, rather than COSMOS, is proposed for public release because Euclid does not plan to observe COSMOS as one of its primary dedicated deep fields ({cite}`esa_euclid_deepfields`).
