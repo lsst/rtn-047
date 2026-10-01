@@ -14,6 +14,8 @@ Designate Rubin Observatory data in the Euclid Deep Field South (EDF-S) as fully
 
 **Public engagement:** Gives Rubin a field where it can openly showcase its own scientific power and capabilities without special clearance.
 
+**Public test datasets:** Provides a small, representative, fully public dataset for software development and testing, including Git LFS test data for Rubin’s GitHub CI, LSST Science Pipelines, and Rubin Data Access Services.
+
 
 ## Scope
 
