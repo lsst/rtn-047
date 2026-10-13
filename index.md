@@ -12,7 +12,7 @@ Designate Rubin Observatory data in the Euclid Deep Field South (EDF-S) as fully
 
 **New legacy field:** Launches EDF-S as the next COSMOS, an open legacy field with decades of fresh discovery potential ahead of it;
 
-**Public engagement:** Gives Rubin a field where it can openly showcase its own scientific power and capabilities without special clearance.
+**Public engagement and education:** Gives Rubin a field where it can openly showcase its scientific capabilities and lets educators use real Rubin data in the classroom, without data-rights restrictions.
 
 **Public test datasets:** Provides a small, representative, fully public dataset for software development and testing, including Git LFS test data for Rubin’s GitHub CI, LSST Science Pipelines, and Rubin Data Access Services.
 
